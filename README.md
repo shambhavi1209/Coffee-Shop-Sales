@@ -6,7 +6,8 @@ This project involves analyzing coffee shop data using Microsoft Excel to gain i
 * Calculate total sales revenue for each month.  
 * Analyze sales variations across different store locations.  
 * Determine the average price/order per person.  
-* Identify the best-selling products in terms of quantity and revenue.  
+* Identify the best-selling products in terms of quantity and revenue.
+    
 **Data Source**  
 The data used for this analysis is sourced from [provide source, e.g., the coffee shop's sales database, a public dataset, etc.]. The dataset includes information such as:  
 * Product names  
