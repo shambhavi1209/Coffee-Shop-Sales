@@ -1,5 +1,5 @@
 # Coffee-Shop-Sales
-This project involves analyzing coffee shop data using Microsoft Excel to gain insights into sales, customer behavior, and product performance. The analysis includes creating dashboards, pivot tables, and visualizations to present the findings effectively.
+This project involves analyzing coffee shop data using Microsoft Excel to gain insights into sales, customer behavior, and product performance. The analysis includes creating dashboards, pivot tables, and visualizations to present the findings effectively.  
 **Objectives**
 Understand how sales vary by day of the week and hour of the day.
 Identify peak times for sales activity.
