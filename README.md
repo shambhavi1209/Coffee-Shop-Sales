@@ -22,10 +22,10 @@ The analysis was conducted using Microsoft Excel, leveraging the following featu
 * Dashboards: For an interactive and comprehensive view of key metrics.  
 * Formulas and Functions: For data cleaning, processing, and analysis.
   
-**Key Questions Answered  
+**Key Questions Answered**
 * Sales by Day and Hour: How do sales vary by day of the week and hour of the day?  
 * Peak Sales Times: Are there any peak times for sales activity?  
-* * Monthly Sales Revenue: What is the total sales revenue for each month?  
+* Monthly Sales Revenue: What is the total sales revenue for each month?  
 * Sales by Location: How do sales vary across different store locations?  
 * Average Price/Order: What is the average price/order per person?  
 * Best-Selling Products: Which products are the best-selling in terms of quantity and revenue?
